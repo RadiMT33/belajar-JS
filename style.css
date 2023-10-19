@@ -1,0 +1,30 @@
+.navbar{
+    background-color:#2be253;
+    padding: 10px;
+}
+.container{
+    width: 80vw;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container ul li{
+    display: inline-block;
+}
+
+.none{
+    display: none;
+}
+
+#bb{
+    background-color: rgb(126, 253, 158);
+    position: absolute;
+    width: 100px;
+}
+#dropdown{
+    background-color: rgb(126, 253, 158);
+    position: absolute;
+    width: 100px;
+}
